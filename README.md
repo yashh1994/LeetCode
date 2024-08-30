@@ -28,4 +28,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash-1994/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Graph
+|  |
+| ------- |
+| [2803-modify-graph-edge-weights](https://github.com/yash-1994/LeetCode/tree/master/2803-modify-graph-edge-weights) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2803-modify-graph-edge-weights](https://github.com/yash-1994/LeetCode/tree/master/2803-modify-graph-edge-weights) |
+## Shortest Path
+|  |
+| ------- |
+| [2803-modify-graph-edge-weights](https://github.com/yash-1994/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 <!---LeetCode Topics End-->
