@@ -25,34 +25,3 @@ class Solution:
 
             print(stk)
         return ans
-
-        # print(input)
-        # for i, c in enumerate(input):
-        #     print(c)
-        #     if ord(c) == 92:  
-        #         print("Yeash")
-        #         chk = True
-        #         continue
-        #     elif (c == 'n' or c == 't') and chk:
-        #         chk = False
-        #         if c == 'n':  # Newline handling
-        #             path_stk.append(word)
-        #             word = ""
-        #             pre_stk = path_stk[:]
-        #             path_stk.clear()
-        #         else:  # Tab handling
-        #             path_stk.append(pre_stk.pop(0))
-        #     elif c == '.':  # Handling for file extensions
-        #         t = i
-        #         while t < len(input) and input[t] != '\\':
-        #             word += input[t]
-        #             t += 1
-        #         path_stk.append(word)
-        #         word = ""
-        #         ans.append(path_stk[:])  # Capture the current path
-        #     else:
-        #         word += c
-
-        # print(ans)
-        return 0
-
