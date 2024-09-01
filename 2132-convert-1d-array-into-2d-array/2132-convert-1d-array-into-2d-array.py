@@ -4,10 +4,7 @@ class Solution:
     def construct2DArray(self, original: List[int], m: int, n: int) -> List[List[int]]:
         if m * n != len(original):
             return []
-        
-        ans = [[0] * n for _ in range(m)] 
-        
+        ans = []
         for i in range(m):
-            for j in range(n):
-                ans[i][j] = original[i * n + j]  
+            ans.append(original[i*n:(i+1)*n])
         return ans
