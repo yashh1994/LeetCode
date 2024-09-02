@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/yash-1994/LeetCode/tree/master/0224-basic-calculator) |
+| [0738-monotone-increasing-digits](https://github.com/yash-1994/LeetCode/tree/master/0738-monotone-increasing-digits) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/yash-1994/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 ## Two Pointers
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/yash-1994/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/yash-1994/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/yash-1994/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0738-monotone-increasing-digits](https://github.com/yash-1994/LeetCode/tree/master/0738-monotone-increasing-digits) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/yash-1994/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/yash-1994/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Sorting
