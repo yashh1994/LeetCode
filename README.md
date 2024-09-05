@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/yash-1994/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/yash-1994/LeetCode/tree/master/0768-partition-labels) |
 | [1652-minimum-suffix-flips](https://github.com/yash-1994/LeetCode/tree/master/1652-minimum-suffix-flips) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/yash-1994/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yash-1994/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Array
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/yash-1994/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/yash-1994/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/yash-1994/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/yash-1994/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/yash-1994/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yash-1994/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/yash-1994/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/yash-1994/LeetCode/tree/master/0768-partition-labels) |
 | [1652-minimum-suffix-flips](https://github.com/yash-1994/LeetCode/tree/master/1652-minimum-suffix-flips) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/yash-1994/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/yash-1994/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/yash-1994/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 ## Sorting
 |  |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0397-integer-replacement](https://github.com/yash-1994/LeetCode/tree/master/0397-integer-replacement) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yash-1994/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/yash-1994/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/yash-1994/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Matrix
 |  |
