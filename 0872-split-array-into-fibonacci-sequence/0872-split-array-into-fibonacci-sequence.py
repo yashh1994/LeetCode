@@ -4,30 +4,27 @@ class Solution:
     def splitIntoFibonacci(self, num: str) -> List[int]:
         def backtrack(index: int, sequence: List[int]) -> bool:
             if index == len(num) and len(sequence) >= 3:
-                return True  # Valid Fibonacci sequence found
+                return True  
 
             curr_num = 0
             for i in range(index, len(num)):
                 if i > index and num[index] == '0':
-                    break  # Leading zeros are not allowed
+                    break  
                 
                 curr_num = curr_num * 10 + int(num[i])
                 
                 if curr_num > 2**31 - 1:
-                    break  # Ensure the numbers are within 32-bit integer range
-                
-                # If there are at least two numbers in the sequence
+                    break  
                 if len(sequence) >= 2:
                     if curr_num < sequence[-1] + sequence[-2]:
-                        continue  # Keep building
+                        continue  
                     elif curr_num > sequence[-1] + sequence[-2]:
-                        break  # Invalid sequence
+                        break  
                 
-                # Add current number to the sequence and continue
                 sequence.append(curr_num)
                 if backtrack(i + 1, sequence):
                     return True
-                sequence.pop()  # Backtrack
+                sequence.pop()  
         
             return False
 
