@@ -5,7 +5,6 @@ class Solution:
         ans = []
         a = [arr[0]]
 
-        # Create the prefix XOR array
         for i in range(1, len(arr)):
             a.append(a[-1] ^ arr[i])
         print(f"Left sided : {a}")
@@ -14,7 +13,6 @@ class Solution:
             in1 = q[0]
             in2 = q[1]
 
-            # XOR from in1 to in2, using prefix XOR technique
             if in1 > 0:
                 ans.append(a[in2] ^ a[in1 - 1])
             else:
