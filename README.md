@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/yash-1994/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/yash-1994/LeetCode/tree/master/0388-longest-absolute-file-path) |
 | [1484-linked-list-in-binary-tree](https://github.com/yash-1994/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Recursion
@@ -310,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/yash-1994/LeetCode/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/yash-1994/LeetCode/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
