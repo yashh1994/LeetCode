@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash-1994/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/yash-1994/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0398-random-pick-index](https://github.com/yash-1994/LeetCode/tree/master/0398-random-pick-index) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yash-1994/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/yash-1994/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0768-partition-labels](https://github.com/yash-1994/LeetCode/tree/master/0768-partition-labels) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0224-basic-calculator](https://github.com/yash-1994/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/yash-1994/LeetCode/tree/master/0227-basic-calculator-ii) |
+| [0398-random-pick-index](https://github.com/yash-1994/LeetCode/tree/master/0398-random-pick-index) |
 | [0670-maximum-swap](https://github.com/yash-1994/LeetCode/tree/master/0670-maximum-swap) |
 | [0738-monotone-increasing-digits](https://github.com/yash-1994/LeetCode/tree/master/0738-monotone-increasing-digits) |
 | [0946-smallest-range-ii](https://github.com/yash-1994/LeetCode/tree/master/0946-smallest-range-ii) |
@@ -320,4 +322,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/yash-1994/LeetCode/tree/master/0386-lexicographical-numbers) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/yash-1994/LeetCode/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/yash-1994/LeetCode/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
