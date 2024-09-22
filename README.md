@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0522-longest-uncommon-subsequence-ii](https://github.com/yash-1994/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/yash-1994/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yash-1994/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/yash-1994/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/yash-1994/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0624-maximum-distance-in-arrays](https://github.com/yash-1994/LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yash-1994/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/yash-1994/LeetCode/tree/master/0454-4sum-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/yash-1994/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yash-1994/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/yash-1994/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/yash-1994/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0768-partition-labels](https://github.com/yash-1994/LeetCode/tree/master/0768-partition-labels) |
 | [0906-walking-robot-simulation](https://github.com/yash-1994/LeetCode/tree/master/0906-walking-robot-simulation) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/yash-1994/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yash-1994/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yash-1994/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Bit Manipulation
