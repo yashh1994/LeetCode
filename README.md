@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/yash-1994/LeetCode/tree/master/0394-decode-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/yash-1994/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/yash-1994/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/yash-1994/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/yash-1994/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0680-valid-palindrome-ii](https://github.com/yash-1994/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0768-partition-labels](https://github.com/yash-1994/LeetCode/tree/master/0768-partition-labels) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/yash-1994/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0324-wiggle-sort-ii](https://github.com/yash-1994/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0454-4sum-ii](https://github.com/yash-1994/LeetCode/tree/master/0454-4sum-ii) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/yash-1994/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/yash-1994/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yash-1994/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/yash-1994/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/yash-1994/LeetCode/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/yash-1994/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0454-4sum-ii](https://github.com/yash-1994/LeetCode/tree/master/0454-4sum-ii) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/yash-1994/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yash-1994/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/yash-1994/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0768-partition-labels](https://github.com/yash-1994/LeetCode/tree/master/0768-partition-labels) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/yash-1994/LeetCode/tree/master/0344-reverse-string) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/yash-1994/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/yash-1994/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yash-1994/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/yash-1994/LeetCode/tree/master/0611-valid-triangle-number) |
@@ -199,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/yash-1994/LeetCode/tree/master/0324-wiggle-sort-ii) |
+| [0522-longest-uncommon-subsequence-ii](https://github.com/yash-1994/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/yash-1994/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yash-1994/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0611-valid-triangle-number](https://github.com/yash-1994/LeetCode/tree/master/0611-valid-triangle-number) |
