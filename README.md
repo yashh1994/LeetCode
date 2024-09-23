@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/yash-1994/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0324-wiggle-sort-ii](https://github.com/yash-1994/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/yash-1994/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0447-number-of-boomerangs](https://github.com/yash-1994/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0454-4sum-ii](https://github.com/yash-1994/LeetCode/tree/master/0454-4sum-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/yash-1994/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/yash-1994/LeetCode/tree/master/0524-longest-word-in-dictionary-through-deleting) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/yash-1994/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/yash-1994/LeetCode/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/yash-1994/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+| [0447-number-of-boomerangs](https://github.com/yash-1994/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0454-4sum-ii](https://github.com/yash-1994/LeetCode/tree/master/0454-4sum-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/yash-1994/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yash-1994/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/yash-1994/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/yash-1994/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0398-random-pick-index](https://github.com/yash-1994/LeetCode/tree/master/0398-random-pick-index) |
+| [0447-number-of-boomerangs](https://github.com/yash-1994/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0670-maximum-swap](https://github.com/yash-1994/LeetCode/tree/master/0670-maximum-swap) |
 | [0738-monotone-increasing-digits](https://github.com/yash-1994/LeetCode/tree/master/0738-monotone-increasing-digits) |
 | [0946-smallest-range-ii](https://github.com/yash-1994/LeetCode/tree/master/0946-smallest-range-ii) |
