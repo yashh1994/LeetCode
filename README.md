@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/yash-1994/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/yash-1994/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0731-my-calendar-ii](https://github.com/yash-1994/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/yash-1994/LeetCode/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/yash-1994/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0917-boats-to-save-people](https://github.com/yash-1994/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0946-smallest-range-ii](https://github.com/yash-1994/LeetCode/tree/master/0946-smallest-range-ii) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/yash-1994/LeetCode/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/yash-1994/LeetCode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/yash-1994/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/yash-1994/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/yash-1994/LeetCode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/yash-1994/LeetCode/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/yash-1994/LeetCode/tree/master/0859-design-circular-deque) |
 ## Segment Tree
 |  |
 | ------- |
@@ -401,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/yash-1994/LeetCode/tree/master/0731-my-calendar-ii) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/yash-1994/LeetCode/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
