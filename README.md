@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/yash-1994/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/yash-1994/LeetCode/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/yash-1994/LeetCode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/yash-1994/LeetCode/tree/master/0071-simplify-path) |
 | [0214-shortest-palindrome](https://github.com/yash-1994/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/yash-1994/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/yash-1994/LeetCode/tree/master/0227-basic-calculator-ii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/yash-1994/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/yash-1994/LeetCode/tree/master/0071-simplify-path) |
 | [0224-basic-calculator](https://github.com/yash-1994/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/yash-1994/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0388-longest-absolute-file-path](https://github.com/yash-1994/LeetCode/tree/master/0388-longest-absolute-file-path) |
