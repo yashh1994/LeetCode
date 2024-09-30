@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/yash-1994/leet/tree/master/0006-zigzag-conversion) |
 | [0032-longest-valid-parentheses](https://github.com/yash-1994/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/yash-1994/LeetCode/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/yash-1994/LeetCode/tree/master/0068-text-justification) |
 | [0214-shortest-palindrome](https://github.com/yash-1994/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/yash-1994/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/yash-1994/LeetCode/tree/master/0227-basic-calculator-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yash-1994/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/yash-1994/LeetCode/tree/master/0031-next-permutation) |
+| [0068-text-justification](https://github.com/yash-1994/LeetCode/tree/master/0068-text-justification) |
 | [0200-number-of-islands](https://github.com/yash-1994/LeetCode/tree/master/0200-number-of-islands) |
 | [0313-super-ugly-number](https://github.com/yash-1994/LeetCode/tree/master/0313-super-ugly-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/yash-1994/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/yash-1994/LeetCode/tree/master/0068-text-justification) |
 | [0906-walking-robot-simulation](https://github.com/yash-1994/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [1769-get-maximum-in-generated-array](https://github.com/yash-1994/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yash-1994/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
