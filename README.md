@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash-1994/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/yash-1994/leet/tree/master/0006-zigzag-conversion) |
+| [0032-longest-valid-parentheses](https://github.com/yash-1994/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0214-shortest-palindrome](https://github.com/yash-1994/LeetCode/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/yash-1994/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/yash-1994/LeetCode/tree/master/0227-basic-calculator-ii) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/yash-1994/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/yash-1994/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/yash-1994/LeetCode/tree/master/0227-basic-calculator-ii) |
 | [0388-longest-absolute-file-path](https://github.com/yash-1994/LeetCode/tree/master/0388-longest-absolute-file-path) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/yash-1994/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0313-super-ugly-number](https://github.com/yash-1994/LeetCode/tree/master/0313-super-ugly-number) |
 | [0397-integer-replacement](https://github.com/yash-1994/LeetCode/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/yash-1994/LeetCode/tree/master/0416-partition-equal-subset-sum) |
