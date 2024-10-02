@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/yash-1994/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/yash-1994/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/yash-1994/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
+| [1256-rank-transform-of-an-array](https://github.com/yash-1994/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/yash-1994/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yash-1994/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/yash-1994/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/yash-1994/LeetCode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/yash-1994/LeetCode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0991-array-of-doubled-pairs](https://github.com/yash-1994/LeetCode/tree/master/0991-array-of-doubled-pairs) |
+| [1256-rank-transform-of-an-array](https://github.com/yash-1994/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/yash-1994/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yash-1994/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/yash-1994/LeetCode/tree/master/2755-extra-characters-in-a-string) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-pancake-sorting](https://github.com/yash-1994/LeetCode/tree/master/1009-pancake-sorting) |
 | [1018-largest-perimeter-triangle](https://github.com/yash-1994/LeetCode/tree/master/1018-largest-perimeter-triangle) |
 | [1047-maximize-sum-of-array-after-k-negations](https://github.com/yash-1994/LeetCode/tree/master/1047-maximize-sum-of-array-after-k-negations) |
+| [1256-rank-transform-of-an-array](https://github.com/yash-1994/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/yash-1994/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/yash-1994/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2754-maximum-strength-of-a-group](https://github.com/yash-1994/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
