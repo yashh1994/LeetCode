@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/yash-1994/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/yash-1994/LeetCode/tree/master/0031-next-permutation) |
 | [0068-text-justification](https://github.com/yash-1994/LeetCode/tree/master/0068-text-justification) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash-1994/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yash-1994/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/yash-1994/LeetCode/tree/master/0200-number-of-islands) |
 | [0313-super-ugly-number](https://github.com/yash-1994/LeetCode/tree/master/0313-super-ugly-number) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yash-1994/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash-1994/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yash-1994/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0324-wiggle-sort-ii](https://github.com/yash-1994/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/yash-1994/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash-1994/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash-1994/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/yash-1994/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/yash-1994/LeetCode/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/yash-1994/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash-1994/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yash-1994/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/yash-1994/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/yash-1994/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -347,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash-1994/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yash-1994/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/yash-1994/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/yash-1994/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
