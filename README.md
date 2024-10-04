@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash-1994/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash-1994/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0133-clone-graph](https://github.com/yash-1994/LeetCode/tree/master/0133-clone-graph) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/yash-1994/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/yash-1994/LeetCode/tree/master/0398-random-pick-index) |
 | [0424-longest-repeating-character-replacement](https://github.com/yash-1994/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/yash-1994/LeetCode/tree/master/0133-clone-graph) |
 | [1325-path-with-maximum-probability](https://github.com/yash-1994/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2803-modify-graph-edge-weights](https://github.com/yash-1994/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 ## Heap (Priority Queue)
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/yash-1994/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/yash-1994/LeetCode/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/yash-1994/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0388-longest-absolute-file-path](https://github.com/yash-1994/LeetCode/tree/master/0388-longest-absolute-file-path) |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/yash-1994/LeetCode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/yash-1994/LeetCode/tree/master/0200-number-of-islands) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/yash-1994/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1484-linked-list-in-binary-tree](https://github.com/yash-1994/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
