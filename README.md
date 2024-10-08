@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yash-1994/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yash-1994/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/yash-1994/LeetCode/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yash-1994/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2755-extra-characters-in-a-string](https://github.com/yash-1994/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yash-1994/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/yash-1994/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/yash-1994/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/yash-1994/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/yash-1994/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yash-1994/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/yash-1994/LeetCode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Depth-First Search
 |  |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0985-bag-of-tokens](https://github.com/yash-1994/LeetCode/tree/master/0985-bag-of-tokens) |
 | [1009-pancake-sorting](https://github.com/yash-1994/LeetCode/tree/master/1009-pancake-sorting) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/yash-1994/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yash-1994/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yash-1994/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Greedy
 |  |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-maximum-number-of-coins-you-can-get](https://github.com/yash-1994/LeetCode/tree/master/1683-maximum-number-of-coins-you-can-get) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yash-1994/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/yash-1994/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yash-1994/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2754-maximum-strength-of-a-group](https://github.com/yash-1994/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
 ## Sorting
 |  |
