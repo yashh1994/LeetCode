@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/yash-1994/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash-1994/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yash-1994/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/yash-1994/LeetCode/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/yash-1994/LeetCode/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/yash-1994/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0313-super-ugly-number](https://github.com/yash-1994/LeetCode/tree/master/0313-super-ugly-number) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/yash-1994/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0118-pascals-triangle](https://github.com/yash-1994/LeetCode/tree/master/0118-pascals-triangle) |
 | [0313-super-ugly-number](https://github.com/yash-1994/LeetCode/tree/master/0313-super-ugly-number) |
 | [0397-integer-replacement](https://github.com/yash-1994/LeetCode/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/yash-1994/LeetCode/tree/master/0416-partition-equal-subset-sum) |
