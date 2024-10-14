@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/yash-1994/LeetCode/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/yash-1994/LeetCode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yash-1994/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/yash-1994/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2754-maximum-strength-of-a-group](https://github.com/yash-1994/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
 | [2755-extra-characters-in-a-string](https://github.com/yash-1994/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/yash-1994/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0659-split-array-into-consecutive-subsequences](https://github.com/yash-1994/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [1325-path-with-maximum-probability](https://github.com/yash-1994/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/yash-1994/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/yash-1994/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/yash-1994/LeetCode/tree/master/2803-modify-graph-edge-weights) |
 ## Shortest Path
 |  |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yash-1994/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/yash-1994/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/yash-1994/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/yash-1994/LeetCode/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2754-maximum-strength-of-a-group](https://github.com/yash-1994/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
 ## Sorting
 |  |
