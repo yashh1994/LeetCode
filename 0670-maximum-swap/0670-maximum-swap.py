@@ -16,5 +16,5 @@ class Solution:
         for n in li:
             ans *= 10
             ans += n
-    return ans
+        return ans
         
