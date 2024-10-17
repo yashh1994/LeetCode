@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/yash-1994/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/yash-1994/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0447-number-of-boomerangs](https://github.com/yash-1994/LeetCode/tree/master/0447-number-of-boomerangs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/yash-1994/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/yash-1994/LeetCode/tree/master/0454-4sum-ii) |
 | [0456-132-pattern](https://github.com/yash-1994/LeetCode/tree/master/0456-132-pattern) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/yash-1994/LeetCode/tree/master/0522-longest-uncommon-subsequence-ii) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0375-guess-number-higher-or-lower-ii](https://github.com/yash-1994/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0398-random-pick-index](https://github.com/yash-1994/LeetCode/tree/master/0398-random-pick-index) |
 | [0447-number-of-boomerangs](https://github.com/yash-1994/LeetCode/tree/master/0447-number-of-boomerangs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/yash-1994/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0670-maximum-swap](https://github.com/yash-1994/LeetCode/tree/master/0670-maximum-swap) |
 | [0738-monotone-increasing-digits](https://github.com/yash-1994/LeetCode/tree/master/0738-monotone-increasing-digits) |
 | [0946-smallest-range-ii](https://github.com/yash-1994/LeetCode/tree/master/0946-smallest-range-ii) |
