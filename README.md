@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/yash-1994/LeetCode/tree/master/0313-super-ugly-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/yash-1994/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0324-wiggle-sort-ii](https://github.com/yash-1994/LeetCode/tree/master/0324-wiggle-sort-ii) |
+| [0413-arithmetic-slices](https://github.com/yash-1994/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/yash-1994/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0447-number-of-boomerangs](https://github.com/yash-1994/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/yash-1994/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yash-1994/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/yash-1994/LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/yash-1994/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/yash-1994/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/yash-1994/LeetCode/tree/master/0567-permutation-in-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/yash-1994/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/yash-1994/LeetCode/tree/master/0343-integer-break) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/yash-1994/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0397-integer-replacement](https://github.com/yash-1994/LeetCode/tree/master/0397-integer-replacement) |
+| [0413-arithmetic-slices](https://github.com/yash-1994/LeetCode/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/yash-1994/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yash-1994/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yash-1994/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
