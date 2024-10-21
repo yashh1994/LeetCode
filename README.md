@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yash-1994/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yash-1994/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/yash-1994/LeetCode/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/yash-1994/LeetCode/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/yash-1994/LeetCode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/yash-1994/LeetCode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/yash-1994/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/yash-1994/LeetCode/tree/master/0136-single-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/yash-1994/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0397-integer-replacement](https://github.com/yash-1994/LeetCode/tree/master/0397-integer-replacement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yash-1994/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
