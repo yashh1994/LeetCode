@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0447-number-of-boomerangs](https://github.com/yash-1994/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/yash-1994/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0537-complex-number-multiplication](https://github.com/yash-1994/LeetCode/tree/master/0537-complex-number-multiplication) |
+| [0593-valid-square](https://github.com/yash-1994/LeetCode/tree/master/0593-valid-square) |
 | [0670-maximum-swap](https://github.com/yash-1994/LeetCode/tree/master/0670-maximum-swap) |
 | [0738-monotone-increasing-digits](https://github.com/yash-1994/LeetCode/tree/master/0738-monotone-increasing-digits) |
 | [0946-smallest-range-ii](https://github.com/yash-1994/LeetCode/tree/master/0946-smallest-range-ii) |
@@ -586,4 +587,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/yash-1994/LeetCode/tree/master/0341-flatten-nested-list-iterator) |
+## Geometry
+|  |
+| ------- |
+| [0593-valid-square](https://github.com/yash-1994/LeetCode/tree/master/0593-valid-square) |
 <!---LeetCode Topics End-->
