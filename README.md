@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yash-1994/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yash-1994/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/yash-1994/LeetCode/tree/master/0659-split-array-into-consecutive-subsequences) |
+| [0695-max-area-of-island](https://github.com/yash-1994/LeetCode/tree/master/0695-max-area-of-island) |
 | [0731-my-calendar-ii](https://github.com/yash-1994/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/yash-1994/LeetCode/tree/master/0735-asteroid-collision) |
 | [0859-design-circular-deque](https://github.com/yash-1994/LeetCode/tree/master/0859-design-circular-deque) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/yash-1994/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/yash-1994/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0565-array-nesting](https://github.com/yash-1994/LeetCode/tree/master/0565-array-nesting) |
+| [0695-max-area-of-island](https://github.com/yash-1994/LeetCode/tree/master/0695-max-area-of-island) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/yash-1994/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0988-flip-equivalent-binary-trees](https://github.com/yash-1994/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/yash-1994/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/yash-1994/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/yash-1994/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/yash-1994/LeetCode/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/yash-1994/LeetCode/tree/master/0695-max-area-of-island) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/yash-1994/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yash-1994/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/yash-1994/LeetCode/tree/master/2411-spiral-matrix-iv) |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/yash-1994/LeetCode/tree/master/0279-perfect-squares) |
 | [0513-find-bottom-left-tree-value](https://github.com/yash-1994/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/yash-1994/LeetCode/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/yash-1994/LeetCode/tree/master/0695-max-area-of-island) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/yash-1994/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1484-linked-list-in-binary-tree](https://github.com/yash-1994/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
@@ -557,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/yash-1994/LeetCode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/yash-1994/LeetCode/tree/master/0695-max-area-of-island) |
 ## Design
 |  |
 | ------- |
