@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/yash-1994/LeetCode/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/yash-1994/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1325-path-with-maximum-probability](https://github.com/yash-1994/LeetCode/tree/master/1325-path-with-maximum-probability) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/yash-1994/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yash-1994/LeetCode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/yash-1994/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/yash-1994/LeetCode/tree/master/1603-running-sum-of-1d-array) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/yash-1994/LeetCode/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/yash-1994/LeetCode/tree/master/0583-delete-operation-for-two-strings) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yash-1994/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/yash-1994/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/yash-1994/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/yash-1994/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2754-maximum-strength-of-a-group](https://github.com/yash-1994/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yash-1994/LeetCode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/yash-1994/LeetCode/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/yash-1994/LeetCode/tree/master/0695-max-area-of-island) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/yash-1994/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/yash-1994/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yash-1994/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/yash-1994/LeetCode/tree/master/2411-spiral-matrix-iv) |
