@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/yash-1994/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0565-array-nesting](https://github.com/yash-1994/LeetCode/tree/master/0565-array-nesting) |
 | [0617-merge-two-binary-trees](https://github.com/yash-1994/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/yash-1994/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/yash-1994/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0695-max-area-of-island](https://github.com/yash-1994/LeetCode/tree/master/0695-max-area-of-island) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/yash-1994/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/yash-1994/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/yash-1994/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/yash-1994/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/yash-1994/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/yash-1994/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/yash-1994/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/yash-1994/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0513-find-bottom-left-tree-value](https://github.com/yash-1994/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/yash-1994/LeetCode/tree/master/0542-01-matrix) |
 | [0617-merge-two-binary-trees](https://github.com/yash-1994/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/yash-1994/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0695-max-area-of-island](https://github.com/yash-1994/LeetCode/tree/master/0695-max-area-of-island) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/yash-1994/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1484-linked-list-in-binary-tree](https://github.com/yash-1994/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0508-most-frequent-subtree-sum](https://github.com/yash-1994/LeetCode/tree/master/0508-most-frequent-subtree-sum) |
 | [0513-find-bottom-left-tree-value](https://github.com/yash-1994/LeetCode/tree/master/0513-find-bottom-left-tree-value) |
 | [0617-merge-two-binary-trees](https://github.com/yash-1994/LeetCode/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/yash-1994/LeetCode/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/yash-1994/LeetCode/tree/master/0652-find-duplicate-subtrees) |
 | [0988-flip-equivalent-binary-trees](https://github.com/yash-1994/LeetCode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/yash-1994/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
