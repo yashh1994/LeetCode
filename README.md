@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yash-1994/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yash-1994/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/yash-1994/LeetCode/tree/master/0031-next-permutation) |
 | [0068-text-justification](https://github.com/yash-1994/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/yash-1994/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yash-1994/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/yash-1994/LeetCode/tree/master/0031-next-permutation) |
 | [0142-linked-list-cycle-ii](https://github.com/yash-1994/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/yash-1994/LeetCode/tree/master/0344-reverse-string) |
