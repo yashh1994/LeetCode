@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/yash-1994/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1769-get-maximum-in-generated-array](https://github.com/yash-1994/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yash-1994/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/yash-1994/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/yash-1994/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yash-1994/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/yash-1994/LeetCode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
