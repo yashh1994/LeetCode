@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yash-1994/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/yash-1994/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0400-nth-digit](https://github.com/yash-1994/LeetCode/tree/master/0400-nth-digit) |
 | [0456-132-pattern](https://github.com/yash-1994/LeetCode/tree/master/0456-132-pattern) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yash-1994/LeetCode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yash-1994/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/yash-1994/LeetCode/tree/master/0343-integer-break) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/yash-1994/LeetCode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0398-random-pick-index](https://github.com/yash-1994/LeetCode/tree/master/0398-random-pick-index) |
+| [0400-nth-digit](https://github.com/yash-1994/LeetCode/tree/master/0400-nth-digit) |
 | [0447-number-of-boomerangs](https://github.com/yash-1994/LeetCode/tree/master/0447-number-of-boomerangs) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/yash-1994/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0537-complex-number-multiplication](https://github.com/yash-1994/LeetCode/tree/master/0537-complex-number-multiplication) |
