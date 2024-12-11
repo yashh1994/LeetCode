@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2754-maximum-strength-of-a-group](https://github.com/yash-1994/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
 | [2755-extra-characters-in-a-string](https://github.com/yash-1994/LeetCode/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/yash-1994/LeetCode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/yash-1994/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/yash-1994/LeetCode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/yash-1994/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/yash-1994/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/yash-1994/LeetCode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/yash-1994/LeetCode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2586-longest-square-streak-in-an-array](https://github.com/yash-1994/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/yash-1994/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/yash-1994/LeetCode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/yash-1994/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/yash-1994/LeetCode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/yash-1994/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/yash-1994/LeetCode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Graph
 |  |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/yash-1994/LeetCode/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/yash-1994/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2754-maximum-strength-of-a-group](https://github.com/yash-1994/LeetCode/tree/master/2754-maximum-strength-of-a-group) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/yash-1994/LeetCode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Dynamic Programming
 |  |
 | ------- |
