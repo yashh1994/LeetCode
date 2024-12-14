@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/yash-1994/LeetCode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/yash-1994/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/yash-1994/LeetCode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/yash-1994/LeetCode/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/yash-1994/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/yash-1994/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/yash-1994/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/yash-1994/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0432-all-oone-data-structure](https://github.com/yash-1994/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/yash-1994/LeetCode/tree/master/0725-split-linked-list-in-parts) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/yash-1994/LeetCode/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
