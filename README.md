@@ -301,12 +301,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/yash-1994/LeetCode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/yash-1994/LeetCode/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/yash-1994/LeetCode/tree/master/0394-decode-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/yash-1994/LeetCode/tree/master/1197-parsing-a-boolean-expression) |
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/yash-1994/LeetCode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/yash-1994/LeetCode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/yash-1994/LeetCode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/yash-1994/LeetCode/tree/master/0227-basic-calculator-ii) |
