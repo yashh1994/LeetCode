@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/yash-1994/LeetCode/tree/master/0695-max-area-of-island) |
 | [0731-my-calendar-ii](https://github.com/yash-1994/LeetCode/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/yash-1994/LeetCode/tree/master/0735-asteroid-collision) |
+| [0780-max-chunks-to-make-sorted](https://github.com/yash-1994/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/yash-1994/LeetCode/tree/master/0792-binary-search) |
 | [0859-design-circular-deque](https://github.com/yash-1994/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/yash-1994/LeetCode/tree/master/0860-design-circular-queue) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/yash-1994/LeetCode/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yash-1994/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/yash-1994/LeetCode/tree/master/0735-asteroid-collision) |
+| [0780-max-chunks-to-make-sorted](https://github.com/yash-1994/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yash-1994/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/yash-1994/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/yash-1994/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/yash-1994/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0738-monotone-increasing-digits](https://github.com/yash-1994/LeetCode/tree/master/0738-monotone-increasing-digits) |
 | [0768-partition-labels](https://github.com/yash-1994/LeetCode/tree/master/0768-partition-labels) |
+| [0780-max-chunks-to-make-sorted](https://github.com/yash-1994/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0917-boats-to-save-people](https://github.com/yash-1994/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0946-smallest-range-ii](https://github.com/yash-1994/LeetCode/tree/master/0946-smallest-range-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yash-1994/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -416,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/yash-1994/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/yash-1994/LeetCode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yash-1994/LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0780-max-chunks-to-make-sorted](https://github.com/yash-1994/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0917-boats-to-save-people](https://github.com/yash-1994/LeetCode/tree/master/0917-boats-to-save-people) |
 | [0946-smallest-range-ii](https://github.com/yash-1994/LeetCode/tree/master/0946-smallest-range-ii) |
 | [0985-bag-of-tokens](https://github.com/yash-1994/LeetCode/tree/master/0985-bag-of-tokens) |
@@ -631,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/yash-1994/LeetCode/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yash-1994/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0780-max-chunks-to-make-sorted](https://github.com/yash-1994/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/yash-1994/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/yash-1994/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/yash-1994/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
