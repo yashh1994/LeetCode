@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/yash-1994/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yash-1994/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/yash-1994/LeetCode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/yash-1994/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0068-text-justification](https://github.com/yash-1994/LeetCode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/yash-1994/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/yash-1994/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yash-1994/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/yash-1994/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/yash-1994/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/yash-1994/LeetCode/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0400-nth-digit](https://github.com/yash-1994/LeetCode/tree/master/0400-nth-digit) |
