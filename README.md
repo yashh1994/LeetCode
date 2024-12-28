@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yash-1994/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0735-asteroid-collision](https://github.com/yash-1994/LeetCode/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/yash-1994/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0937-online-stock-span](https://github.com/yash-1994/LeetCode/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/yash-1994/LeetCode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/yash-1994/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/yash-1994/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -654,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/yash-1994/LeetCode/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yash-1994/LeetCode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0780-max-chunks-to-make-sorted](https://github.com/yash-1994/LeetCode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0937-online-stock-span](https://github.com/yash-1994/LeetCode/tree/master/0937-online-stock-span) |
 | [1002-maximum-width-ramp](https://github.com/yash-1994/LeetCode/tree/master/1002-maximum-width-ramp) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/yash-1994/LeetCode/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/yash-1994/LeetCode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0838-design-linked-list](https://github.com/yash-1994/LeetCode/tree/master/0838-design-linked-list) |
 | [0859-design-circular-deque](https://github.com/yash-1994/LeetCode/tree/master/0859-design-circular-deque) |
 | [0860-design-circular-queue](https://github.com/yash-1994/LeetCode/tree/master/0860-design-circular-queue) |
+| [0937-online-stock-span](https://github.com/yash-1994/LeetCode/tree/master/0937-online-stock-span) |
 ## Segment Tree
 |  |
 | ------- |
@@ -756,4 +759,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/yash-1994/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/yash-1994/LeetCode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
