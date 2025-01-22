@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/yash-1994/LeetCode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1769-get-maximum-in-generated-array](https://github.com/yash-1994/LeetCode/tree/master/1769-get-maximum-in-generated-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/yash-1994/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1876-map-of-highest-peak](https://github.com/yash-1994/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/yash-1994/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/yash-1994/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/yash-1994/LeetCode/tree/master/1940-maximum-xor-for-each-query) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/yash-1994/LeetCode/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/yash-1994/LeetCode/tree/master/0733-flood-fill) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/yash-1994/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1876-map-of-highest-peak](https://github.com/yash-1994/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/yash-1994/LeetCode/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2089-maximum-matrix-sum](https://github.com/yash-1994/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/yash-1994/LeetCode/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -644,6 +646,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1007-numbers-with-same-consecutive-differences](https://github.com/yash-1994/LeetCode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yash-1994/LeetCode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/yash-1994/LeetCode/tree/master/1484-linked-list-in-binary-tree) |
+| [1876-map-of-highest-peak](https://github.com/yash-1994/LeetCode/tree/master/1876-map-of-highest-peak) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/yash-1994/LeetCode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 ## Binary Tree
 |  |
